@@ -3,14 +3,14 @@
 /* BASIC */
 
 html {
-  background-color: #56baed;
+  background-color: #ed56e5;
+  /* background-color: #56baed;*/
   /* background-color: #eff8ff;*/
 }
 
 body {
   font-family: "Poppins", sans-serif;
-  /*height: 100vh;*/
-  heigh:665px;
+  height: 100vh;
   background-image: url("https://media.istockphoto.com/id/1272421423/es/vector/tiny-doctor-insertar-muestra-con-sangre-en-medidor-de-glucosa-digital-para-controlar-la.jpg?s=612x612&w=0&k=20&c=a67YXt8UGdIfGpeaf76UtBTkTlbZ2EISKLBd3mMjJFk=");
 }
 
