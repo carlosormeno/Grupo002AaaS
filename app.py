@@ -44,7 +44,7 @@ def GetValues():
         
     op1 = predict_api(data_json)
 
-    return render_template('index.html', prediction_text='The person may: {}'.format(op1))
+    return render_template('index.html', prediction_text='Con los parametros ingresados, la persona podria: {}'.format(op1))
 
 def read_params(config_path):
     with open(config_path) as yaml_file:
