@@ -1,6 +1,6 @@
-# Nombre del REPO: mlops-webapp-up
+# Nombre del REPO: Grupo002Aaas
 
-Web predict diabetes using api in azure
+Pagina Web que predice la diabetes usando un API creado en Azure
 
 Datos para test:
 
@@ -14,5 +14,4 @@ Datos para test:
 - Age = 45
 
 Comando para hacer push con token:
-git push https://<token>@github.com/<nombre-usuario>/<nombre-repo>
-git push https://<token>@github.com/joenvihe/mlops-webapp-up.git
+- git push https://<nombre-usuario>:<token>@github.com/<nombre-usuario>/<nombre-repo>.git main
