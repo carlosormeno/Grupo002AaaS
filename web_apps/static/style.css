@@ -5,6 +5,9 @@
 html {
   background-color: #56baed;
   /* background-color: #eff8ff;*/
+  heigh:665px;
+  background-image: url("https://images.ecestaticos.com/RyPuD-8VdlBjjtfok172gt_6ThI=/221x0:2170x1460/1200x899/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fad9%2F2eb%2Fb16%2Fad92ebb161a7bcb1307566142062bc3c.jpg);
+  background-size: 10rem;
 }
 
 body {
